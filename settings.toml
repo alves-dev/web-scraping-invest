@@ -1,0 +1,10 @@
+[default]
+README_VERSION = '0.0.1'
+URL_BASE = 'https://statusinvest.com.br/'
+URL_IBOV = '/acoes/variacao/ibov'
+TOP_FIVE = 5
+
+[development]
+CHROME_DRIVER = '/home/igor/Projetos/web-scraping-invest/chromedriver_linux64/chromedriver'
+
+[production]
